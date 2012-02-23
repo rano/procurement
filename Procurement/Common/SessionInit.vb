@@ -25,9 +25,12 @@ Namespace PS.Common
 
         End Function
 
-		public function test() as boolean
-		
-		end function
+        Public Shared Function test() As Boolean
+
+            Dim a As String
+            a = "test string"
+        End Function
+
         
     End Class
 
