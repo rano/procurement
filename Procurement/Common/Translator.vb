@@ -34,6 +34,7 @@ Namespace PS.Common
                 End If
 
                 Return text
+'text 
             Else
                 Return ""
             End If
