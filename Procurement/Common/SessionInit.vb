@@ -29,6 +29,7 @@ Namespace PS.Common
 
             Dim a As String
             a = "test string"
+			a = "another test"
         End Function
 
         
