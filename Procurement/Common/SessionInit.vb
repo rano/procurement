@@ -25,13 +25,6 @@ Namespace PS.Common
 
         End Function
 
-        Public Shared Function test() As Boolean
-
-            Dim a As String
-            a = "test string"
-			a = "another test"
-        End Function
-
         
     End Class
 
