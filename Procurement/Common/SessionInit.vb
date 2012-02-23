@@ -25,6 +25,9 @@ Namespace PS.Common
 
         End Function
 
+		public function test() as boolean
+		
+		end function
         
     End Class
 
